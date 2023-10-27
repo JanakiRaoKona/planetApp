@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  list-style: none;
+  padding-left: 0;
+}
+.planet-image {
+  width: 400px;
+  height: 300px;
+}
+.container {
+  text-align: center;
+}
+.para-heading {
+  font-size: 26px;
+  color: #f8fafc;
+  font-family: 'Roboto';
+}
+.paragraph {
+  font-size: 16px;
+  color: #f1f5f9;
+  font-family: 'Roboto';
+}
